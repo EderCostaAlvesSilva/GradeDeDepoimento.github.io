@@ -1,0 +1,204 @@
+body{
+    background: #ECF2F8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#container{
+    margin: 5em auto;
+    width: 82%;
+    
+}
+#esquerda{
+    float: left;
+    width: 67%;
+}
+
+#topo{
+    width: 100%;
+    height: 320px;
+    
+}
+#Daniel{
+    background: #7541C8;
+    border-radius: 5%;
+    width: 55%;
+    float: left;
+    min-width: 393px;
+    padding: 15px 15px 0px 30px;
+    font-weight: 900;
+    color:#fff;
+    font-size: 1.1em;
+}
+#Daniel p{
+    margin-top: 10px ;
+}
+#Perfil-Daniel h3{
+    font-size: 0.8em;
+    line-height: -10px;
+}
+#Perfil-Daniel span{
+    color:#b998ec;
+    font-size: 0.8em;
+    margin-top: 0px;
+}
+#Perfil-Daniel img{
+    border-radius: 50%;
+    float: left;
+    margin-right: 8px;
+    margin-top: 0px;
+}
+#textd{
+   font-size: 0.7em;
+   color:#b998ec;
+}
+
+#Jonathan{
+    background: #48556A;
+    border-radius: 5%;
+    width: 29%;
+    float: right;
+    min-width: 100px;
+    padding: 15px 15px 15px 30px;
+    font-weight: 900;
+    color:#fff;
+    font-size: 1.1em;
+}
+#Jonathan p{
+    margin-top: 25px;
+}
+#Perfil-Jonathan h3{
+    font-size: 0.8em;
+    line-height: -10px;
+}
+#Perfil-Jonathan span{
+    color:#9A9795;
+    font-size: 0.8em;
+    margin-top: 0px;
+}
+#Perfil-Jonathan img{
+    border-radius: 50%;
+    float: left;
+    margin-right: 8px;
+    margin-top: 0px;
+}
+#textj{
+    font-size: 0.7em;
+   color:#9A9795;
+}
+
+
+#baixo{
+    width: 100%;
+    height: 320px;
+    clear: both;
+}
+
+#Jeanette{
+    background: #fff;
+    border-radius: 5%;
+    width: 29%;
+    float: left;
+    min-width: 100px;
+    padding: 15px 15px 15px 30px;
+    font-weight: 900;
+    color:#111;
+    font-size: 1.1em;
+}
+#Jeanette p{
+    margin-top: 25px;
+}
+#Perfil-Jeanette h3{
+    font-size: 0.8em;
+    line-height: -10px;
+}
+#Perfil-Jeanette span{
+    color:#111;
+    font-size: 0.8em;
+    margin-top: 0px;
+}
+#Perfil-Jeanette img{
+    border-radius: 50%;
+    float: left;
+    margin-right: 8px;
+    margin-top: 0px;
+}
+#textje{
+    font-size: 0.7em;
+    color:#9A9795;
+    padding-bottom: 30px;
+}
+
+#Patrick{
+    background: #19212E;
+    border-radius: 5%;
+    width: 55%;
+    float: right;
+    min-width: 393px;
+    padding: 15px 15px 26px 30px;
+    font-weight: 900;
+    color:#fff;
+    font-size: 1.1em;
+}
+#Patrick p{
+    margin-top: 10px ;
+}
+#Perfil-Patrick h3{
+    font-size: 0.8em;
+    line-height: -10px;
+}
+#Perfil-Patrick span{
+    color:#828993;
+    font-size: 0.8em;
+    margin-top: 0px;
+}
+#Perfil-Patrick img{
+    border-radius: 50%;
+    float: left;
+    margin-right: 8px;
+    margin-top: 0px;
+}
+#textp{
+   font-size: 0.7em;
+   color:#828993;
+}
+
+#direita{
+    float: right;
+    width: 29%;
+    margin-left: 29px;
+}
+#Kira{
+    background: #fff;
+    border-radius: 5%;
+    width: 85%;
+    float: left;
+    min-width: 100px;
+    padding: 15px 15px 2px 30px;
+    font-weight: 900;
+    color:#111;
+    font-size: 1.1em;
+    height: 610px;
+}
+#Kira p{
+    line-height: 20px;
+    margin-top: 25px;
+}
+#Perfil-Kira h3{
+    font-size: 0.8em;
+    line-height: -10px;
+}
+#Perfil-Kira span{
+    color:#111;
+    font-size: 0.8em;
+    margin-top: 0px;
+}
+#Perfil-Kira img{
+    border-radius: 50%;
+    float: left;
+    margin-right: 8px;
+    margin-top: 0px;
+}
+#textk{
+    font-size: 0.7em;
+    color:#9A9795;
+    padding-bottom: 10px;
+}
